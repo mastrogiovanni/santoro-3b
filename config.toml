@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://ia-santoro.netlify.app/'
 languageCode = 'it-IT'
 title = 'IA - Santoro'
 theme = "hugo-geekdoc"
