@@ -1,11 +1,12 @@
+# README
+
 Ciao mamma
 
 {{< highlight go >}} A bunch of code here {{< /highlight >}}
 
-{{ $_hugo_config := `{ "version": 1 }` }}
-
 {{< figure src="/media/spf13.jpg" title="Steve Francia" >}}
 
+{{< share "ciao" >}}
 
 {{< alert "info" "This is a notice." >}}
 
