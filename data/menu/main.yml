@@ -1,0 +1,9 @@
+---
+main:
+
+  - name: Avvisi
+    ref: "/avvisi"
+    icon: "test.svg"
+
+  - name: Altro
+    ref: "/posts"
