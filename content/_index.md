@@ -6,7 +6,7 @@ Ciao mamma
 
 {{< figure src="/media/spf13.jpg" title="Steve Francia" >}}
 
-{{< share "ciao" >}}
+{{< share "ciao" "Ciao" >}}
 
 {{< alert "info" "This is a notice." >}}
 
