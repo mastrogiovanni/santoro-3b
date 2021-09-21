@@ -20,7 +20,7 @@ Il diario è lo strumento di comunicazione fra scuola e genitori (oltre i canali
 
 # Progetto accoglienza
 
-- Laboratorio di movimento creativo: 15min a sett -> dicembre (13 incontri in palestra) il giovedì a casa per lavare.
+- Laboratorio di movimento creativo: 15min a sett -> dicembre (13 incontri in palestra) il giovedì gli antiscivolo vengono riconsegnati per lavarli.
 - 1 parte)
   * saper fare
 	* ritmo
