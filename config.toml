@@ -1,6 +1,6 @@
-baseURL = 'https://ia-santoro.netlify.app/'
+baseURL = 'https://ib-santoro.netlify.app/'
 languageCode = 'it-IT'
-title = 'IA - Santoro'
+title = 'IB - Santoro'
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
