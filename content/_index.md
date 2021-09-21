@@ -13,10 +13,10 @@ Il diario è lo strumento di comunicazione fra scuola e genitori (oltre i canali
 
 # Calendario
 
-4 ottobre riparte il tempo pieno
-4 e 5 chiusa per elezioni
-2 novembre chiusura
-7 gennaio chiusura
+- 4 ottobre riparte il tempo pieno
+- 4 e 5 chiusa per elezioni
+- 2 novembre chiusura
+- 7 gennaio chiusura
 
 # Progetto accoglienza
 
