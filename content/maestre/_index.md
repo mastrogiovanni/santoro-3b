@@ -1,5 +1,6 @@
 ---
 title: "Maestre"
+weight: 0
 ---
 
 {{< table "table table-dark table-striped table-bordered" >}}

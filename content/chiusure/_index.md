@@ -1,5 +1,6 @@
 ---
 title: "Chiusure"
+weight: 1
 ---
 
 - 4 ottobre riparte il tempo pieno

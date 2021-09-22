@@ -13,7 +13,10 @@
 
 # Comunicazione
 
-Il diario è lo strumento di comunicazione fra scuola e genitori (oltre i canali di posta una volta avuti gli account)
+{{< hint danger >}}
+**Comunicare con la scuola**\
+Il *diario* è lo strumento di comunicazione fra scuola e genitori (oltre i canali di posta una volta avuti gli account)
+{{< /hint >}}
 
 # Chiusure
 
@@ -53,20 +56,24 @@ Monitoraggio e valutazione
 # Altro dall'incontro
 ________
 
-- Il calendario scolastico (anche riunioni) è sul sito della scuola
+- Il calendario scolastico (anche riunioni) è <a href="https://www.icannacelli.edu.it/area-famiglie/calendario-scolastico" target="_blank">sul sito della scuola</a>
 - Bisogna firmare il patto di corresponsabilità (tra scuola e famiglia)
 - I libri sono stati già ordinati, verranno consegnate le cedole da pagare
-- Le intolleranze alimentari vanno segnalate con apposito modulo al IV municipio
+- Le intolleranze alimentari vanno segnalate con <a target="_blank" href="http://www.comune.roma.it/web/it/scheda-servizi.page?contentId=INF40431">apposito modulo</a> al IV municipio
 - Coop Esselunga e Amazon: si possono raccogliere i punti per la scuola.
 - All'uscita, bisogna evitare di sostare sulla pista rossa per non creare assembramenti
 - Il quaderno rimane a scuola e viene portato a casa solo il fine settimana (per dare riscontro)
 - Non portare i bimbi con febbre o disturbi gastrointestinali
 - La scuola non è più scuola sentinella per il monitoraggio del COVID
 
-## Limitare le uscite anticipate
+{{< hint danger >}}
+**Limitare le uscite anticipate**\
+Se possibile:
 - solo situazioni particolari
 - non durante la mensa
 - rispettare orario entrata
+{{< /hint >}}
+
 # Corso di Inglese (da analizzare in futuro)
 
 - 70 euro - 20 ore annue
