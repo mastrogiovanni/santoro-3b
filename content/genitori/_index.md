@@ -17,5 +17,6 @@ draft: true
 | Zikra | mamma | Gabriel |
 | Giordana | mamma | Tommaso |
 | Masha | mamma | Maila |
-|  | mamma | Alvin |
+| Zhensila | mamma | Alvin |
+| Riccarda | mamma | Matteo |
 {{< /table >}}
