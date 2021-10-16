@@ -5,6 +5,8 @@ weight: 1
 
 - 4 ottobre riparte il tempo pieno
 - 4 e 5 ottobre scuola chiusa per elezioni
+- 18 e 19 ottobre scuola chiusa per ballottaggio elezioni
+
 - 1° novembre 2021;
 - 2 novembre chiusura
 - 8 dicembre 2021;

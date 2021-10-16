@@ -7,7 +7,6 @@ draft: true
 {{< table "table table-dark table-striped table-bordered" >}}
 | | |
 |---------|--------|--------|
-| Giordana | mamma | Tommaso |
 | Laura | mamma | Stella |
 | Sara | mamma | Asia |
 | Giulia | mamma | Lorenzo |
@@ -19,4 +18,7 @@ draft: true
 | Masha | mamma | Maila |
 | Zhensila | mamma | Alvin |
 | Riccarda | mamma | Matteo |
+| Giada | mamma | Giulia Nané |
 {{< /table >}}
+
+Tommaso, Stella, Asia, Lorenzo, Gabriele, Mirim, Marco, Gabriel, Tommaso, Maila, Alvin, Matteo, Giulia
