@@ -3,7 +3,18 @@ title: "Utime Novità"
 weight: 0
 ---
 
-{{< hint info >}}
+{{< hint danger >}}
+**Assemblea sindacale**\
+A causa riunione sindacale il **21 ottobre** la classe entra alle **10:20** dopo le seconde.
+
+{{< table "table table-dark table-striped table-bordered" >}}
+|   |  |
+|---------|--------|
+| circ. n. 87 entrata per assemblea sindacale | <a href="/circolari/circolare n 87 entrata per assemblea sindacale.pdf">Scarica</a> |
+{{< /table >}}
+{{< /hint >}}
+
+{{< hint danger >}}
 **Indette elezioni rappresentanti**\
 Sono state indette le elezioni del rappresentante di classe.
 
@@ -23,15 +34,17 @@ Le votazioni si terranno in palestra giovedì 28 ottobre dalle 15:30 -: 17:30 (b
 {{< /table >}}
 {{< /hint >}}
 
-{{< hint danger >}}
+
+
+{{< hint info >}}
 <a href="maestre/" target="_blank">**Chi sono le maestre**</a>
 {{< /hint >}}
 
-{{< hint danger >}}
+{{< hint info >}}
 **Comunicare con la scuola**\
 Il *diario* è lo strumento di comunicazione fra scuola e genitori (oltre i canali di posta una volta avuti gli account)
 {{< /hint >}}
 
-{{< hint danger >}}
+{{< hint info >}}
 <a href="chiusure/" target="_blank">**Tutte le chiusure**</a>
 {{< /hint >}}
