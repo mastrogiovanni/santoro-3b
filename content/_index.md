@@ -3,11 +3,9 @@ title: "Utime Novità"
 weight: 0
 ---
 
-{{< book "40894" "https://www.liscianiscuola.it/wp-content/uploads/2021/02/01-Letture-360x454.jpg" >}}
-{{< book "62261" "https://www.liscianiscuola.it/wp-content/uploads/2021/02/01-Metodo-360x454.jpg" >}}
-{{< book "46202" "https://www.liscianiscuola.it/wp-content/uploads/2021/02/01-Quaderno-di-scrittura-360x454.jpg" >}}
-{{< book "30389" "https://www.liscianiscuola.it/wp-content/uploads/2021/02/01-Metodo-4-caratteri-360x454.jpg" >}}
-{{< book "15052" "https://www.liscianiscuola.it/wp-content/uploads/2021/02/01-Discipline-esercizi-360x454.jpg" >}}
+{{< hint info >}}
+<a href="libri/" target="_blank">**Tutti i libri in PDF**</a>
+{{< /hint >}}
 
 {{< hint danger >}}
 **Indette elezioni rappresentanti**\
@@ -28,8 +26,6 @@ Le votazioni si terranno in palestra giovedì 28 ottobre dalle 15:30 -: 17:30 (b
 | Indizione elezioni rappresentanti genitori nei consigli di classe a.s. 2021-222 | <a href="/circolari/Indizione elezioni rappresentanti genitori nei consigli di classe a.s. 2021-222.pdf">Scarica</a> |
 {{< /table >}}
 {{< /hint >}}
-
-
 
 {{< hint info >}}
 <a href="maestre/" target="_blank">**Chi sono le maestre**</a>
