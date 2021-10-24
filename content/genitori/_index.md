@@ -19,6 +19,7 @@ draft: true
 | Zhensila | mamma | Alvin |
 | Riccarda | mamma | Matteo |
 | Giada | mamma | Giulia Nané |
+| Valentina | mamma | Luca Scelsa |
 {{< /table >}}
 
 Tommaso, Stella, Asia, Lorenzo, Gabriele, Mirim, Marco, Gabriel, Tommaso, Maila, Alvin, Matteo, Giulia
