@@ -10,17 +10,6 @@ weight: 0
 {{< book "15052" "https://www.liscianiscuola.it/wp-content/uploads/2021/02/01-Discipline-esercizi-360x454.jpg" >}}
 
 {{< hint danger >}}
-**Assemblea sindacale**\
-A causa riunione sindacale il **21 ottobre** la classe entra alle **10:20** dopo le seconde.
-
-{{< table "table table-dark table-striped table-bordered" >}}
-|   |  |
-|---------|--------|
-| circ. n. 87 entrata per assemblea sindacale | <a href="/circolari/circolare n 87 entrata per assemblea sindacale.pdf">Scarica</a> |
-{{< /table >}}
-{{< /hint >}}
-
-{{< hint danger >}}
 **Indette elezioni rappresentanti**\
 Sono state indette le elezioni del rappresentante di classe.
 

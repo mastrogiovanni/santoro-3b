@@ -1,0 +1,10 @@
+{{< hint danger >}}
+**Assemblea sindacale**\
+A causa riunione sindacale il **21 ottobre** la classe entra alle **10:20** dopo le seconde.
+
+{{< table "table table-dark table-striped table-bordered" >}}
+|   |  |
+|---------|--------|
+| circ. n. 87 entrata per assemblea sindacale | <a href="/circolari/circolare n 87 entrata per assemblea sindacale.pdf">Scarica</a> |
+{{< /table >}}
+{{< /hint >}}
