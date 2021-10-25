@@ -11,8 +11,14 @@ weight: 0
 **Indette elezioni rappresentanti**\
 Sono state indette le elezioni del rappresentante di classe.
 
-Si terranno martedì 26 e mercoledì 27 2021 ore 17:00 – 18:00, oppure 18:00-19:00 (saranno dati i link per la riunione zoom dagli insegnanti). 
+Si terranno martedì 26 alle 18:00 – 18:50.
 
+Il link zoom è il seguente: https://meet.google.com/yco-jttz-imc
+
+Ricordate di accedere con l'account di vostro figlio/a
+{{< /hint >}}
+
+{{< hint danger >}}
 Le votazioni si terranno in palestra giovedì 28 ottobre dalle 15:30 -: 17:30 (bisogna votare con pezzo di carta). 
 
 - Si possono eleggere fino a 4 rappresentanti per classe. 
