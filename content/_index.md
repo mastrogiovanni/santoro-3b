@@ -8,7 +8,7 @@ weight: 0
 {{< /hint >}}
 
 {{< hint danger >}}
-**Indette elezioni rappresentanti**\
+**Assemblea di classe per le elezioni del rappresentante di classe**\
 Sono state indette le elezioni del rappresentante di classe.
 
 Si terranno martedì 26 alle 18:00 – 18:50.
