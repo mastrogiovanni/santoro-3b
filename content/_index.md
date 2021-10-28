@@ -8,6 +8,20 @@ weight: 0
 {{< /hint >}}
 
 {{< hint danger >}}
+**Uscita anticipata 29/10/2021**\
+
+Uscita anticipata per il giorno 29/10/2021 su ordinanza del Prefetto di Roma.
+
+L'uscita è prevista alle 15:15
+
+{{< table "table table-dark table-striped table-bordered" >}}
+|   |  |
+|---------|--------|
+| Circolare | <a href="/circolari/circolare n 103 uscita anticipata venerdì 29 ottobre x G 20.pdf">Scarica</a> |
+{{< /table >}}
+{{< /hint >}}
+
+{{< hint danger >}}
 **Assemblea di classe per le elezioni del rappresentante di classe**\
 Le votazioni si terranno in palestra giovedì 28 ottobre dalle 15:30 -: 17:30 (bisogna votare con pezzo di carta). 
 
