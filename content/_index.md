@@ -7,6 +7,7 @@ weight: 0
 <a href="libri/" target="_blank">**Tutti i libri in PDF**</a>
 {{< /hint >}}
 
+<!--
 {{< hint danger >}}
 **Uscita anticipata 29/10/2021**\
 
@@ -36,16 +37,19 @@ Le votazioni si terranno in palestra giovedì 28 ottobre dalle 15:30 -: 17:30 (b
 | Indizione elezioni rappresentanti genitori nei consigli di classe a.s. 2021-222 | <a href="/circolari/Indizione elezioni rappresentanti genitori nei consigli di classe a.s. 2021-222.pdf">Scarica</a> |
 {{< /table >}}
 {{< /hint >}}
+-->
 
 {{< hint info >}}
 <a href="maestre/" target="_blank">**Chi sono le maestre**</a>
 {{< /hint >}}
 
 {{< hint info >}}
+<a href="chiusure/" target="_blank">**Tutte le chiusure**</a>
+{{< /hint >}}
+
+<!--
+{{< hint info >}}
 **Comunicare con la scuola**\
 Il *diario* è lo strumento di comunicazione fra scuola e genitori (oltre i canali di posta una volta avuti gli account)
 {{< /hint >}}
-
-{{< hint info >}}
-<a href="chiusure/" target="_blank">**Tutte le chiusure**</a>
-{{< /hint >}}
+-->
