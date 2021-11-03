@@ -4,6 +4,15 @@ weight: 0
 ---
 
 {{< hint info >}}
+**Calendario del mese**
+## Novembre 2021
+- 1: chiusura
+- 2: chiusura
+- 23: riunione interclasse (solo rappresentante)
+- 30 o 1 dicembre: colloqui genitori
+{{< /hint >}}
+
+{{< hint info >}}
 <a href="libri/" target="_blank">**Tutti i libri in PDF**</a>
 {{< /hint >}}
 
