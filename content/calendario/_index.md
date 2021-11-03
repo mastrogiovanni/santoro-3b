@@ -19,13 +19,11 @@ weight: -100
 ## Dicembre 2021
 - 8: chiusura
 - 14 o 15: assemblea di classe 
-- 25 Natale: chiusura
-- 26 Santo Stefano: chiusura
 - 23 - 31 Vacanze di Natale: chiusura
 
 ## Gennaio 2022
 - 1 - 6: chiusura
-- 7 gennaio chiusura
+- 7: chiusura
 - 25: riunione interclasse
 
 ## Fabbraio 2022
@@ -35,9 +33,8 @@ weight: -100
 - 22: riunione interclasse
 
 ## Aprile 2022
-- 14 - 16: Vacanze Pasquali: chiusura
-- 17 Pasqua: chiusura
-- 18 Lunedì dell’Angelo: chiusura
+- 14 - 18 Vacanze Pasquali: chiusura
+- 19: chiusura
 - 25 Festa della Liberazione: chiusura
 - 26 o 27: assemblea di classe
 
@@ -47,7 +44,6 @@ weight: -100
 
 ## Giugno 2022
 - 2 Festa della Repubblica: chiusura
-- 29 Festa del santo patrono: chiusura
 
 <a href="https://www.icannacelli.edu.it/area-famiglie/calendario-scolastico" target="_blank">Riferimenti</a>
 
