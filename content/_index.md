@@ -3,6 +3,11 @@ title: "Utime Novità"
 weight: 0
 ---
 
+{{< hint warning >}}
+**gestione della quarantena a scuola**\
+<a href="/comunicazioni/gestione-quarantena">Vai alla pagina</a>
+{{< /hint >}}
+
 {{< hint info >}}
 **Calendario del mese**
 ## Novembre 2021
