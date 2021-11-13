@@ -3,6 +3,10 @@ title: "Utime Novità"
 weight: 0
 ---
 
+<!--
+{{% chart id="basicChart" js="js/soldi.js" %}}
+-->
+
 {{< hint warning >}}
 **gestione della quarantena a scuola**\
 <a href="/comunicazioni/gestione-quarantena">Vai alla pagina</a>
@@ -19,6 +23,10 @@ weight: 0
 
 {{< hint info >}}
 <a href="libri/" target="_blank">**Tutti i libri in PDF**</a>
+{{< /hint >}}
+
+{{< hint info >}}
+<a href="fondocassa/">**Stato fondocassa**</a>
 {{< /hint >}}
 
 <!--
@@ -54,11 +62,11 @@ Le votazioni si terranno in palestra giovedì 28 ottobre dalle 15:30 -: 17:30 (b
 -->
 
 {{< hint info >}}
-<a href="maestre/" target="_blank">**Chi sono le maestre**</a>
+<a href="maestre/">**Chi sono le maestre**</a>
 {{< /hint >}}
 
 {{< hint info >}}
-<a href="chiusure/" target="_blank">**Tutte le chiusure**</a>
+<a href="calendario/">**Calendario (tutto)**</a>
 {{< /hint >}}
 
 <!--
