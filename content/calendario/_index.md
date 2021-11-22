@@ -13,6 +13,7 @@ weight: -100
 - 1: chiusura
 - 2: chiusura
 - 23: riunione interclasse
+- 24: Sciopero ATA: non garantita l'erogazione del servizio scolastico
 - 30 o 1 dicembre: colloqui genitori
 {{< /hint >}}
 

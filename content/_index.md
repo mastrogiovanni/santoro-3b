@@ -3,13 +3,15 @@ title: "Utime Novità"
 weight: 0
 ---
 
-<!--
-{{% chart id="basicChart" js="js/soldi.js" %}}
--->
-
 {{< hint warning >}}
-**gestione della quarantena a scuola**\
-<a href="/comunicazioni/gestione-quarantena">Vai alla pagina</a>
+**Sciopero ATA**\
+Il giorno 24 novembre ci sarà uno sciopero ATA.
+Non è garantita l'erogazione del servizio scolastico.
+I genitori, la mattina all’entrata, devono accertarsi che i plessi siano funzionanti prima di
+lasciare i figli a scuola e, nel caso di apertura, informarsi sull’orario di chiusura
+
+
+<a href="https://www.icannacelli.edu.it/attachments/article/1211/circolare%20n%20141%20-%20sciopero%20ATA.pdf">Circolare</a>
 {{< /hint >}}
 
 {{< hint info >}}
@@ -18,6 +20,7 @@ weight: 0
 - 1: chiusura
 - 2: chiusura
 - 23: riunione interclasse (solo rappresentante)
+- 24: Sciopero ATA: non garantita l'erogazione del servizio scolastico
 - 30 o 1 dicembre: colloqui genitori
 {{< /hint >}}
 
