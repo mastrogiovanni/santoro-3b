@@ -17,23 +17,23 @@ weight: -20
 * 10 euro sono per il contributo assicurativo integrativo (il vostro figlio/a beneficerà di ulteriore copertura assicurativa, per esempio se si rompono gli occhiali)
 * Ogni euro in più sarà a beneficio di tutta la scuola
 
-# Italiano
+# Italiano (Nada)
 * Dopo aver appreso le vocali (giochi, canzoncine, mimate) ora si è passati a M, L, F e tutte le rispettive sillabe.
 * I bambini sono particolarmente contenti di affrontare la lettura ad alta voce
 * E’stato fatto un cartellone per la settimana dell’ambiente e per il rispetto regole. La risposta è stata molto positiva
 
-# Biblioteca
+# Biblioteca (Nada)
 * 1 volta a settimana si va in biblioteca: sono entusiasti, il primo giorno non sapevano dove guardare.
 * L’obiettivo è avvicinarsi alla lettura
 * Mensilmente vengono presi libri in prestito e tutti giorni alla fine della lezione Nada ad alta voce: si appassionano
 * Inizialmente ci sono state alcune difficoltà (normalissime) dovute all’impugnatura della matita: ma si sta procedendo bene
 * Storie brevi, piccoli personaggi in mondi fantastici, si imparano i primi concetti di prima e dopo
 
-# Scrittura
+# Scrittura (Nada)
 * Stampato molto meglio rispetto al corsivo
 * Il corsivo richiede una manualità che si acquisisce giornalmente: più esercizio faranno più si migliora
 
-# Inglese
+# Inglese (Nada)
 * Approccio alla lingua basato sull’ascolto (saluti, hello, good bye, stand up, sit down)
 * Ora si passa ai colori e numeri
 * Il potenziamento di inglese con madrelingua sarà attivato da gennaio, sarà di 20 ore e costerà 70 euro. Ulteriori dettagli saranno dati più avanti
