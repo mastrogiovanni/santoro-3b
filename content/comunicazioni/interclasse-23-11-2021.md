@@ -24,8 +24,8 @@ weight: -20
 
 # Biblioteca (Nada)
 * 1 volta a settimana si va in biblioteca: sono entusiasti, il primo giorno non sapevano dove guardare.
-* L’obiettivo è avvicinarsi alla lettura
-* Mensilmente vengono presi libri in prestito e tutti giorni alla fine della lezione Nada ad alta voce: si appassionano
+* L’obiettivo è avvicinarsi alla lettura.
+* Mensilmente vengono presi libri in prestito e tutti giorni alla fine della lezione Nada legge ad alta voce: si appassionano
 * Inizialmente ci sono state alcune difficoltà (normalissime) dovute all’impugnatura della matita: ma si sta procedendo bene
 * Storie brevi, piccoli personaggi in mondi fantastici, si imparano i primi concetti di prima e dopo
 
@@ -52,7 +52,7 @@ weight: -20
 * I bambini sono un pò penalizzati perché non hanno l’insegnante
 * Non hanno affrontato bene musica e motoria (a parte il progetto accoglienza)
 * Da questa settimana inizia una maestra e sta sicuramente fino a gennaio
-* E’possibile che che termini l’anno siccome l'insegnante sostituita è in congedo
+* E’possibile che termini l’anno siccome l'insegnante sostituita è in congedo
 
 # Per i genitori
 * Siate puntuali all’ingresso
