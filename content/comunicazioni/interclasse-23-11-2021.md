@@ -33,7 +33,7 @@ weight: -20
 * Stampato molto meglio rispetto al corsivo
 * Il corsivo richiede una manualità che si acquisisce giornalmente: più esercizio faranno più si migliora
 
-# Inglese (Nada)
+# Inglese (Emma)
 * Approccio alla lingua basato sull’ascolto (saluti, hello, good bye, stand up, sit down)
 * Ora si passa ai colori e numeri
 * Il potenziamento di inglese con madrelingua sarà attivato da gennaio, sarà di 20 ore e costerà 70 euro. Ulteriori dettagli saranno dati più avanti
