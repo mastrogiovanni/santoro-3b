@@ -38,11 +38,11 @@ weight: -20
 * Ora si passa ai colori e numeri
 * Il potenziamento di inglese con madrelingua sarà attivato da gennaio, sarà di 20 ore e costerà 70 euro. Ulteriori dettagli saranno dati più avanti
 
-# Logico + Inglese (Villani)
+# Logico + Inglese (Emma)
 * Dopo gli insiemi e i sottoinsiemi stanno affrontando i numeri (1, 2)
 * I numeri sono presentati in modo ludico, suscitano curiosità e risposta positiva dei bambini: si mettono in gioco
 
-# Antropologico (Scattoni)
+# Antropologico (Letizia)
 * Prerequisiti, vocali e primi concetti matematici (assieme alla villani)
 * Si inizia a lavorare sulle materie (storia, geografia) 
 * Storia: stanno scrivendo la carta di identità con la loro storia
