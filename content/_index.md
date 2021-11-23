@@ -3,6 +3,10 @@ title: "Utime Novità"
 weight: 0
 ---
 
+{{< hint info >}}
+<a href="comunicazioni/interclasse-23-11-2021/">**Riunione Interclasse**</a>
+{{< /hint >}}
+
 {{< hint warning >}}
 **Sciopero ATA**\
 Il giorno 24 novembre ci sarà uno sciopero ATA.
@@ -10,6 +14,9 @@ Non è garantita l'erogazione del servizio scolastico.
 I genitori, la mattina all’entrata, devono accertarsi che i plessi siano funzionanti prima di
 lasciare i figli a scuola e, nel caso di apertura, informarsi sull’orario di chiusura
 
+* L'apertura potrà essere effettuata anche con la presenza di un singolo collaboratore
+* Non sarà possibile gestire entrate in ritardo né uscite anticipate degli alunni, anche se autorizzate.
+* Sospeso il ricevimento del pubblico nel plesso centrale
 
 <a href="https://www.icannacelli.edu.it/attachments/article/1211/circolare%20n%20141%20-%20sciopero%20ATA.pdf">Circolare</a>
 {{< /hint >}}
