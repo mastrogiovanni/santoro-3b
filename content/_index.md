@@ -4,8 +4,19 @@ weight: 0
 ---
 
 {{< hint info >}}
-<a href="comunicazioni/interclasse-23-11-2021/">**Riunione Interclasse**</a>
+**Modalità di votazione per rappresentanti di Istituto**
+- Gli elettori sono tenuti ad esibire un documento d’identità in corso di validità per il loro riconoscimento.
+- Gli elettori prima di ricevere la scheda devono apporre la propria firma leggibile accanto al loro nominativo sull’elenco degli elettori. 
+- Sull’apposita scheda, contenente i numeri romani attribuiti, nell’ordine, a ciascuna lista presentata, i relativi motti e i nominativi dei candidati, il VOTO va espresso mediante l’apposizione di una croce (X) sul numero romano relativo al motto prescelto e di altra croce (X) sul numero arabo indicante il candidato appartenente alla medesima lista. 
+- Le schede elettorali che mancano del voto di preferenza sono valide solo per l’attribuzione del posto spettante alla lista.
+
+- Ogni elettore genitore o docente può esprimere fino a 2 voti di preferenza. 
+- I genitori che hanno più figli nella medesima o in più classi, esercitano il diritto di voto una sola volta.
+
+I genitori che hanno  figli in più classi, esercitano il diritto di voto una sola volta, votando dalla lista del figlio di minore età.
+<a href="https://www.icannacelli.edu.it/area-personale/circolari-2021-2022/1232-circolare-n-156-promemoria-elezioni-consiglio-istituto">**Circolare**</a>
 {{< /hint >}}
+
 
 {{< hint warning >}}
 **Sciopero ATA**\
