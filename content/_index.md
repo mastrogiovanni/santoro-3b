@@ -3,6 +3,7 @@ title: "Utime Novità"
 weight: 0
 ---
 
+<!--
 {{< hint info >}}
 **Modalità di votazione per rappresentanti di Istituto**
 - Gli elettori sono tenuti ad esibire un documento d’identità in corso di validità per il loro riconoscimento.
@@ -31,15 +32,14 @@ lasciare i figli a scuola e, nel caso di apertura, informarsi sull’orario di c
 
 <a href="https://www.icannacelli.edu.it/attachments/article/1211/circolare%20n%20141%20-%20sciopero%20ATA.pdf">Circolare</a>
 {{< /hint >}}
+-->
 
 {{< hint info >}}
 **Calendario del mese**
-## Novembre 2021
-- 1: chiusura
-- 2: chiusura
-- 23: riunione interclasse (solo rappresentante)
-- 24: Sciopero ATA: non garantita l'erogazione del servizio scolastico
-- 30 o 1 dicembre: colloqui genitori
+## Dicembre 2021
+- 8: chiusura
+- 14 o 15: assemblea di classe 
+- 23 - 31 Vacanze di Natale: chiusura
 {{< /hint >}}
 
 {{< hint info >}}

@@ -10,7 +10,8 @@ draft: false
 | 14 quote | 140 | | - |
 | Scottex + Carta igienica | | 12 | 09/11/2021 |
 | 2 risme di carta | | 7.80 | 12/11/2021 |
+| Scottex, 3 rotoli | | 7.50 | 01/12/2021 |
 ||
-| *Totale Residuo* | 120.2 | | |
+| *Totale Residuo* | 112.7 | | |
 
 {{< /table >}}
