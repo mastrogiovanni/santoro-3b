@@ -10,7 +10,7 @@ I genitori hanno degli inviti classroom negli account dei figli: **si richiede d
 {{< /hint >}}
 
 {{< hint info >}}
-Serve una scatola di cartone di uova da 6 (vuota) per il lavoretto di arte di Natale
+Serve una scatola di cartone di uova da 6 (vuota) *verde* per il lavoretto di arte di Natale
 {{< /hint >}}
 
 {{< hint info >}}
