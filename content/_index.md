@@ -3,6 +3,10 @@ title: "Utime Novità"
 weight: 0
 ---
 
+{{< hint info >}}
+<a href="comunicazioni/assemblea-classe-14-12-2021/" target="_blank">**Assemblea di classe**</a>
+{{< /hint >}}
+
 <!--
 {{< hint info >}}
 **Modalità di votazione per rappresentanti di Istituto**

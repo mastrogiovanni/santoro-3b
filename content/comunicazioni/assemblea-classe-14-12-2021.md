@@ -1,20 +1,20 @@
 ---
 title: "Assemblea (14/12/2021)"
----
 weight: -20
+---
 
 # Avvisi
 
 {{< hint info >}}
-I genitori hanno degli inviti classroom negli account dei figli: si richiede di iscriverli
+I genitori hanno degli inviti classroom negli account dei figli: **si richiede di accettare gli inviti**
 {{< /hint >}}
 
 {{< hint info >}}
-Serve una scatola di cartone di uova da 6 per il lavoretto di arte di Natale
+Serve una scatola di cartone di uova da 6 (vuota) per il lavoretto di arte di Natale
 {{< /hint >}}
 
 {{< hint info >}}
-Ringraziano per i libri acquistati per la biblioteca
+Le maestre ringraziano per i libri acquistati per la biblioteca
 {{< /hint >}}
 
 # Comportamento
