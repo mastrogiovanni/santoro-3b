@@ -17,6 +17,14 @@ Serve una scatola di cartone di uova da 6 (vuota) per il lavoretto di arte di Na
 Le maestre ringraziano per i libri acquistati per la biblioteca
 {{< /hint >}}
 
+{{< hint info >}}
+La maestra di arte e musica, richiede un quaderno nuovo a quadrettoni che utilizerà per il potenziamento: un lato italiano e un lato matematica
+{{< /hint >}}
+
+{{< hint info >}}
+Per motoria (giovedì) bisogna portare delle scarpe pulite da usare per la palestra
+{{< /hint >}}
+
 # Comportamento
 
 I bambini partecipano ma sono vivaci: la situazione è gestibile.
@@ -29,25 +37,27 @@ Il fine settimana controllare il materiale per avere tutto il materiale e temper
 
 # Carfora Giuseppina (Educazione motoria, Arte, Musica)
 
-Musica motoria e potenziamento italiano e matematica 
+La maestra si occupa di musica, motoria e potenziamento italiano e matematica.
 
-Un quaderno nuovo a quadrettoni lato italiano lato matematico
+La maestra richiede un quaderno nuovo a quadrettoni che utilizerà per il potenziamento: un lato italiano e un lato matematica.
 
-Giovedì motoria come al solito, scarpette solo per la palestra
+Giovedì si farà motoria come al solito, si devono portare scarpette solo per la palestra
 
 # Villani Emma (Matematica e Inglese)
 
-Da gennaio si inizia il potenziamento di inglese ancora non ci sono dettagli (20 ore, 70 euro)
+Da gennaio si inizia il potenziamento di inglese ancora non ci sono dettagli (forse 20 ore, 70 euro).
 
-Verranno proposti giochi di logica e strategia
+Verranno proposti giochi di logica e strategia.
 
-Inglese hanno iniziato con presentazioni, saluti, attività legate alle festività. Si lavora molto oralmente e si predilige l’ascolto
+Inglese hanno iniziato con presentazioni, saluti, attività legate alle festività. Si lavora molto oralmente e si predilige l’ascolto.
 
-Lavori interdisciplinari di inglese con arte e scienze.
+Si effettuano lavori interdisciplinari di inglese con arte e scienze.
 
 # Scattoni Letizia
 
-**Storia**: Tempo cronologico e tempo meteorologico, e anche prima, adesso, dopo
+Argomenti affrontati:
+
+**Storia**: tempo cronologico e tempo meteorologico, e anche prima, adesso, dopo
 
 **Geografia**: concetti topologici (avanti dietro, destra, sinistra… collocazione nello spazio)
 
@@ -67,7 +77,6 @@ E’ normale che ci sia qualche difficoltà nel corsivo perché in realtà pur p
 stampato maiuscolo &#8594; stampato minuscolo &#8594; corsivo. 
 {{< /hint >}}
 
-
 I bimbi sanno riconoscere bene infatti maiuscolo e minuscolo e dopo Natale, finiti tutti i caratteri, si darà molto più spazio al minuscolo e al corsivo. 
 
 **Si richiede comunque ai genitori:**
@@ -75,4 +84,3 @@ I bimbi sanno riconoscere bene infatti maiuscolo e minuscolo e dopo Natale, fini
 * un esercizio quotidiano per acquisire la manualità richiesta
 * stimolarli quotidianamente alla lettura e alla comprensione (es. leggendo insieme favole o facendo domande semplici tipo “chi sono i personaggi? che cosa succede?”)
 {{< /hint >}}
-
