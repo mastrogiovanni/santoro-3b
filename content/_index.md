@@ -44,6 +44,11 @@ lasciare i figli a scuola e, nel caso di apertura, informarsi sull’orario di c
 - 8: chiusura
 - 14 o 15: assemblea di classe 
 - 23 - 31 Vacanze di Natale: chiusura
+
+## Gennaio 2022
+- 1 - 6: chiusura
+- 7: chiusura
+- 25: riunione interclasse
 {{< /hint >}}
 
 {{< hint info >}}
