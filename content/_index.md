@@ -4,7 +4,11 @@ weight: 0
 ---
 
 {{< hint info >}}
-<a href="comunicazioni/assemblea-classe-14-12-2021/" target="_blank">**Assemblea di classe**</a>
+<a href="comunicazioni/visite-gratuite" target="_blank">**Visite gratuite per i minori che hanno avuto il COVID 19**</a>
+{{< /hint >}}
+
+{{< hint info >}}
+<a href="comunicazioni/assemblea-classe-14-12-2021" target="_blank">**Assemblea di classe**</a>
 {{< /hint >}}
 
 <!--
