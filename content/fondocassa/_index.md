@@ -12,7 +12,9 @@ draft: false
 | 2 risme di carta | | 7.80 | 12/11/2021 |
 | Scottex, 3 rotoli | | 7.50 | 01/12/2021 |
 | Regalo Maestre | | 49.95 | 02/12/2021 |
+| Scottex, 2 rotoli | | 9.90 | 18/01/2022 |
+| 2 risme di carta | | 7.80 | 18/01/2022 |
 ||
-| *Totale Residuo* | 62.75 | | |
+| *Totale Residuo* | 45.05 | | |
 
 {{< /table >}}
