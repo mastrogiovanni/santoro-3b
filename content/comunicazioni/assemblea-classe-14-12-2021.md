@@ -1,5 +1,5 @@
 ---
-title: "Assemblea (14/12/2021)"
+title: "Assemblea (14 dicembre 2021)"
 weight: -20
 ---
 

@@ -7,11 +7,11 @@ weight: 0
 <a href="comunicazioni/visite-gratuite" target="_blank">**Visite gratuite per i minori che hanno avuto il COVID 19**</a>
 {{< /hint >}}
 
+<!--
 {{< hint info >}}
 <a href="comunicazioni/assemblea-classe-14-12-2021" target="_blank">**Assemblea di classe**</a>
 {{< /hint >}}
 
-<!--
 {{< hint info >}}
 **Modalità di votazione per rappresentanti di Istituto**
 - Gli elettori sono tenuti ad esibire un documento d’identità in corso di validità per il loro riconoscimento.
@@ -44,10 +44,6 @@ lasciare i figli a scuola e, nel caso di apertura, informarsi sull’orario di c
 
 {{< hint info >}}
 **Calendario del mese**
-## Dicembre 2021
-- 8: chiusura
-- 14 o 15: assemblea di classe 
-- 23 - 31 Vacanze di Natale: chiusura
 
 ## Gennaio 2022
 - 1 - 6: chiusura

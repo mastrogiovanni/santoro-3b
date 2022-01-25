@@ -1,7 +1,7 @@
 ---
 title: "Genitori"
 weight: 2
-draft: true
+draft: false
 ---
 
 {{< table "table table-dark table-striped table-bordered" >}}
