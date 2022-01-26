@@ -77,6 +77,13 @@ La DAD è stata decisa essere di 10 ore settimanali:
 - 1 religione
 - 1 tecnologia/musica/motoria
 
+# ASL e Quarantena
+
+{{< hint danger >}}
+Purtroppo la ASL non riesce a smaltire il lavoro: i documenti per la quarantena arriveranno ma in date non precisate.
+Non appena saranno disponibili saranno distribuiti. La scuola è inferocita con la ASL almeno quanto i genitori.
+{{< /hint >}}
+
 # Regole DAD
 
 {{< hint danger >}}
