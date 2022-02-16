@@ -15,6 +15,13 @@ draft: false
 | Scottex, 2 rotoli | | 7.90 | 18/01/2022 |
 | 2 risme di carta | | 9.80 | 18/01/2022 |
 ||
-| *Totale Residuo* | 45.05 | | |
+| *Totale Residuo* | 45.05 | | 18/01/2022 |
+||
+| Scottex, 3 rotoli | | 8.70 | 16/02/2022 |
+| Ricarica Sapone, 2 litri | | 2.59 | 16/02/2022 |
+| Carta Igienica, 2 pacchi da 4 | | 5.80 | 16/01/2022 |
+||
+| *Totale Residuo* | 28.05 | | |
+||
 
 {{< /table >}}

@@ -45,10 +45,8 @@ lasciare i figli a scuola e, nel caso di apertura, informarsi sull’orario di c
 {{< hint info >}}
 **Calendario del mese**
 
-## Gennaio 2022
-- 1 - 6: chiusura
-- 7: chiusura
-- 25: riunione interclasse
+## Fabbraio 2022
+- 22 o 23: assemblea di classe (schede e colloqui) 17:00 - 19:00 
 {{< /hint >}}
 
 {{< hint info >}}
