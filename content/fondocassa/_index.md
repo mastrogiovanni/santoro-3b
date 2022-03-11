@@ -23,5 +23,8 @@ draft: false
 ||
 | *Totale Residuo* | 28.05 | | |
 ||
-
+| Scottex, 3 rotoli | | 5.80 | 11/03/2022 |
+||
+| *Totale Residuo* | 22.25 | | |
+||
 {{< /table >}}
