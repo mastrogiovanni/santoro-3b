@@ -8,7 +8,7 @@ draft: false
 | Oggetto | Entrate (euro) | Uscite (euro) | Data |
 |---------|--------|--------|--------|
 | 14 quote | 140 | | - |
-| Scottex + Carta igienica | | 12 | 09/11/2021 |
+| 3 Scottex + Carta igienica | | 12 | 09/11/2021 |
 | 2 risme di carta | | 7.80 | 12/11/2021 |
 | Scottex, 3 rotoli | | 7.50 | 01/12/2021 |
 | Regalo Maestre | | 49.95 | 02/12/2021 |
@@ -23,8 +23,12 @@ draft: false
 ||
 | *Totale Residuo* | 28.05 | | |
 ||
-| Scottex, 3 rotoli | | 5.80 | 11/03/2022 |
+| Scottex, 2 rotoli | | 5.80 | 11/03/2022 |
 ||
 | *Totale Residuo* | 22.25 | | |
+||
+| Scottex, 2 rotoli | | 5.80 | 17/03/2022 |
+||
+| *Totale Residuo* | 16.45 | | |
 ||
 {{< /table >}}
