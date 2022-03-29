@@ -8,14 +8,12 @@ weight: -100
 - 4 e 5 chiusa per elezioni
 - 18 e 19 chiusa per ballottaggio elezioni
 
-{{< hint info >}}
 ## Novembre 2021
 - 1: chiusura
 - 2: chiusura
 - 23: riunione interclasse
 - 24: Sciopero ATA: non garantita l'erogazione del servizio scolastico
 - 30 o 1 dicembre: colloqui genitori
-{{< /hint >}}
 
 ## Dicembre 2021
 - 8: chiusura
@@ -31,7 +29,9 @@ weight: -100
 - 22 o 23: assemblea di classe (schede e colloqui) 17:00 - 19:00 
 
 ## Marzo 2022
+{{< hint info >}}
 - 22: riunione interclasse
+{{< /hint >}}
 
 ## Aprile 2022
 - 14 - 18 Vacanze Pasquali: chiusura

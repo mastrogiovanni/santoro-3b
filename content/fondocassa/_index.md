@@ -31,4 +31,8 @@ draft: false
 ||
 | *Totale Residuo* | 16.45 | | |
 ||
+| Carta Igienica, 2 pacchi da 4 | | 5.00 | 28/03/2022 |
+||
+| *Totale Residuo* | 11.45 | | |
+||
 {{< /table >}}
