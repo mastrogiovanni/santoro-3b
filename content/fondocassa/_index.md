@@ -35,4 +35,12 @@ draft: false
 ||
 | *Totale Residuo* | 11.45 | | |
 ||
+| Quota Fondocassa (Miriam) | 10 | | |
+| Quota Fondocassa (Stella) | 10 | | |
+| Quota Fondocassa (Maila) | 10 | | |
+| Quota Fondocassa (Marco) | 10 | | |
+| Scottex, 2 rotoli | | 5.80 | 01/04/2022 |
+||
+| *Totale Residuo* | 45.65 | | |
+||
 {{< /table >}}
