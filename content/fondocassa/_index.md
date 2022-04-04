@@ -43,4 +43,11 @@ draft: false
 ||
 | *Totale Residuo* | 45.65 | | |
 ||
+| Quota Fondocassa (Rosa) | 10 | | |
+| Quota Fondocassa (Lorenzo) | 10 | | |
+| Quota Fondocassa (Gabriele) | 10 | | |
+| Quota Fondocassa (Luca) | 10 | | |
+||
+| *Totale Residuo* | 85.65 | | |
+||
 {{< /table >}}
