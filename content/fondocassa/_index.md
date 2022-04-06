@@ -47,6 +47,7 @@ draft: false
 | Quota Fondocassa (Lorenzo) | 10 | | |
 | Quota Fondocassa (Gabriele) | 10 | | |
 | Quota Fondocassa (Luca) | 10 | | |
+| Quota Fondocassa (Gabriel) | 10 | | |
 ||
 | *Totale Residuo* | 85.65 | | |
 ||
