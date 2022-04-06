@@ -49,6 +49,6 @@ draft: false
 | Quota Fondocassa (Luca) | 10 | | |
 | Quota Fondocassa (Gabriel) | 10 | | |
 ||
-| *Totale Residuo* | 85.65 | | |
+| *Totale Residuo* | 95.65 | | |
 ||
 {{< /table >}}
