@@ -48,7 +48,8 @@ draft: false
 | Quota Fondocassa (Gabriele) | 10 | | |
 | Quota Fondocassa (Luca) | 10 | | |
 | Quota Fondocassa (Gabriel) | 10 | | |
+| Quota Fondocassa (Asia) | 10 | | |
 ||
-| *Totale Residuo* | 95.65 | | |
+| *Totale Residuo* | 105.65 | | |
 ||
 {{< /table >}}
