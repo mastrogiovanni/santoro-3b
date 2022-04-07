@@ -55,4 +55,8 @@ draft: false
 ||
 | *Totale Residuo* | 105.65 | | |
 ||
+| 1 Risma di Carta | | 4.90 | 07/04/2022 |
+||
+| *Totale Residuo* | 100.75.65 | | |
+||
 {{< /table >}}
