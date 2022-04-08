@@ -59,6 +59,11 @@ draft: false
 ||
 | 1 Risma di Carta | | 4.90 | 07/04/2022 |
 ||
-| *Totale Residuo* | 120.75.65 | | |
+| *Totale Residuo* | 120.75 | | |
+||
+| Quota Fondocassa (Asia) | 10 | | |
+| Regalo Pasqua (5 campanelle da 7 euro) | | 35.00 | 08/04/2022 |
+||
+| *Totale Residuo* | 95.75 | | |
 ||
 {{< /table >}}
