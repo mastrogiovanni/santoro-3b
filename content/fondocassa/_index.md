@@ -39,24 +39,26 @@ draft: false
 | Quota Fondocassa (Stella) | 10 | | |
 | Quota Fondocassa (Maila) | 10 | | |
 | Quota Fondocassa (Marco) | 10 | | |
+| Quota Fondocassa (Tommaso) | 10 | | |
+| Quota Fondocassa (Matteo) | 10 | | |
 | Scottex, 2 rotoli | | 5.80 | 01/04/2022 |
 ||
-| *Totale Residuo* | 45.65 | | |
+| *Totale Residuo* | 65.65 | | |
 ||
 | Quota Fondocassa (Rosa) | 10 | | |
 | Quota Fondocassa (Lorenzo) | 10 | | |
 | Quota Fondocassa (Gabriele) | 10 | | |
 | Quota Fondocassa (Luca) | 10 | | |
 ||
-| *Totale Residuo* | 85.65 | | |
+| *Totale Residuo* | 105.65 | | |
 ||
 | Quota Fondocassa (Gabriel) | 10 | | |
 | Quota Fondocassa (Asia) | 10 | | |
 ||
-| *Totale Residuo* | 105.65 | | |
+| *Totale Residuo* | 125.65 | | |
 ||
 | 1 Risma di Carta | | 4.90 | 07/04/2022 |
 ||
-| *Totale Residuo* | 100.75.65 | | |
+| *Totale Residuo* | 120.75.65 | | |
 ||
 {{< /table >}}
