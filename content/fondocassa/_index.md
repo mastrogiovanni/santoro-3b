@@ -66,4 +66,8 @@ draft: false
 ||
 | *Totale Residuo* | 95.75 | | |
 ||
+| Quota Fondocassa (Giulia) | 10 | | |
+||
+| *Totale Residuo* | 105.75 | | |
+||
 {{< /table >}}
