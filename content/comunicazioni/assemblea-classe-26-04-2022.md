@@ -9,13 +9,13 @@ La programmazione è in linea con il piano formativo sia per l'ambito linguistic
 
 Sono stati completati tutti i suoni, verranno accennati/anticipati gli articoli, i nomi e le azioni (i verbi) 
 
-I bimbi stanno facendo il dettato di frasi e usando facendo gli esercizi con la "gli".
+I bimbi stanno facendo il dettato di intere frasi e gli esercizi con "gli".
 
-Matematica i bambini si stanno esercitando con i calcoli mentali, non fanno ancora le operazioni in colonna.
-Quest'ultime sono più meccaniche: si chiede a tal proposito non di non fargliele fare per cercare prima 
-di velocizzare il calcolo mentale (con gli amici del 10).
+Matematica: i bambini si stanno esercitando con i calcoli mentali, non fanno ancora le operazioni in colonna.
+La maestra desidera prima potenziare il calcolo mentale (con gli amici del 10).
+Le operazioni in colonna saranno fatte dopo: ci prega di non anticiparle ai bambini.
 
-I bimbi sono andati nel laboratorio di informatica: hanno acceso il computer, aperto un file, 
+I bimbi sono anche andati nel laboratorio di informatica: hanno acceso il computer, aperto un file, 
 disegnato con Paint delle figure geometriche e colori e poi salvato il file. 
 L'esercizio prevedeva poi di riportare le forme sul quaderno e scrivere il nome in italiano e inglese.
 La prossima volta probabilmente si cercherà di mostrare Word e scrivere parole con font e colori diversi.
