@@ -70,4 +70,10 @@ draft: false
 ||
 | *Totale Residuo* | 105.75 | | |
 ||
+| Supplemento Fondocassa (Marco) | 5 | | |
+| Supplemento Fondocassa (Maila) | 5 | | |
+| Supplemento Fondocassa (Tommaso) | 5 | | |
+||
+| *Totale Residuo* | 120.75 | | |
+||
 {{< /table >}}
