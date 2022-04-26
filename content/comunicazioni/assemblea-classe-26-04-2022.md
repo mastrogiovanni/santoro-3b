@@ -15,7 +15,7 @@ Matematica: i bambini si stanno esercitando con i calcoli mentali, non fanno anc
 La maestra desidera prima potenziare il calcolo mentale (con gli amici del 10).
 Le operazioni in colonna saranno fatte dopo: ci prega di non anticiparle ai bambini.
 
-I bimbi sono anche andati nel laboratorio di informatica: hanno acceso il computer, aperto un file, 
+I bimbi sono andati nel laboratorio di informatica: hanno acceso il computer, aperto un file, 
 disegnato con Paint delle figure geometriche e colori e poi salvato il file. 
 L'esercizio prevedeva poi di riportare le forme sul quaderno e scrivere il nome in italiano e inglese.
 La prossima volta probabilmente si cercherà di mostrare Word e scrivere parole con font e colori diversi.
@@ -41,7 +41,7 @@ causa malattia...)
 
 Nella riunione è emerso comunque il desiderio di fare qualcosa insieme come classe, magari non con le dinamiche
 della gita, ma magari anche coinvolgendo alcune maestre (Emma e Nada si sono mostrate disponibili).
-Possiamo discuterne in chat e farci venire delle idee e proporle loro: fra le idee è emerso:
+Possiamo discuterne in chat e farci venire delle idee e proporle loro. Fra le idee è emerso:
 - orto botanico (Emma)
 - parco avventura
 - Castel San Angelo e San Pietro (Michele)
