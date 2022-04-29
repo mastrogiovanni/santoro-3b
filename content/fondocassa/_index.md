@@ -76,4 +76,9 @@ draft: false
 ||
 | *Totale Residuo* | 120.75 | | |
 ||
+| Scottex, 3 rotoli | | 8.70 | 27/04/2022 |
+| Supplemento Fondocassa (Giulia) | 5 | | |
+||
+| *Totale Residuo* | 117.05 | | |
+||
 {{< /table >}}
