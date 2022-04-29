@@ -78,7 +78,8 @@ draft: false
 ||
 | Scottex, 3 rotoli | | 8.70 | 27/04/2022 |
 | Supplemento Fondocassa (Giulia) | 5 | | |
+| Supplemento Fondocassa (Miriam) | 5 | | |
 ||
-| *Totale Residuo* | 117.05 | | |
+| *Totale Residuo* | 122.05 | | |
 ||
 {{< /table >}}
