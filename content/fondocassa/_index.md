@@ -83,7 +83,8 @@ draft: false
 | Supplemento Fondocassa (Stella) | 5 | | |
 | Supplemento Fondocassa (Gabriel) | 5 | | |
 | Supplemento Fondocassa (Alvin) | 5 | | |
+| Supplemento Fondocassa (Lorenzo) | 5 | | |
 ||
-| *Totale Residuo* | 142.05 | | |
+| *Totale Residuo* | 147.05 | | |
 ||
 {{< /table >}}
