@@ -84,7 +84,8 @@ draft: false
 | Supplemento Fondocassa (Gabriel) | 5 | | |
 | Supplemento Fondocassa (Alvin) | 5 | | |
 | Supplemento Fondocassa (Lorenzo) | 5 | | |
+| Supplemento Fondocassa (Gabriele) | 5 | | |
 ||
-| *Totale Residuo* | 147.05 | | |
+| *Totale Residuo* | 152.05 | | |
 ||
 {{< /table >}}
