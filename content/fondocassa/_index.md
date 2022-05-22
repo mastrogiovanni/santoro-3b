@@ -89,4 +89,13 @@ draft: false
 ||
 | *Totale Residuo* | 157.05 | | |
 ||
+| Supplemento Fondocassa (Asia) | 5 | | |
+| Scottex, 1 rotoli | | 4.50 | 20/05/2022 |
+||
+| *Totale Residuo* | 157.55 | | |
+||
+| Regalo fine anno maestre | | 75 | 21/05/2022 |
+||
+| *Totale Residuo* | 82.55 | | |
+||
 {{< /table >}}
