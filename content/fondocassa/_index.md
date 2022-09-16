@@ -7,6 +7,18 @@ draft: false
 {{< table "table table-dark table-striped table-bordered" >}}
 | Oggetto | Entrate (euro) | Uscite (euro) | Data |
 |---------|--------|--------|--------|
+| Residuo I anno | 82.55 | | 12/09/2022 |   
+| 3 Scottex + 2 Carta igienica | | 18.50 | 16/09/2022 |
+||
+| *Totale Residuo* | 45.05 | | 16/09/2022 |
+||
+{{< /table >}}
+
+Fondocassa I anno:
+
+{{< table "table table-dark table-striped table-bordered" >}}
+| Oggetto | Entrate (euro) | Uscite (euro) | Data |
+|---------|--------|--------|--------|
 | 14 quote | 140 | | - |
 | 3 Scottex + Carta igienica | | 12 | 09/11/2021 |
 | 2 risme di carta | | 7.80 | 12/11/2021 |
