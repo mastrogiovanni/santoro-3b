@@ -10,7 +10,7 @@ draft: false
 | Residuo I anno | 82.55 | | 12/09/2022 |   
 | 3 Scottex + 2 Carta igienica | | 18.50 | 16/09/2022 |
 ||
-| *Totale Residuo* | 45.05 | | 16/09/2022 |
+| *Totale Residuo* | 63.85 | | 16/09/2022 |
 ||
 {{< /table >}}
 
