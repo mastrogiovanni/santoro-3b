@@ -24,7 +24,7 @@ draft: false
 | Fondocassa Alvin (7/13) | 10 | | 22/09/2022 |
 | Fondocassa Tommaso (8/13) | 10 | | 22/09/2022 |
 | Fondocassa Matteo (9/13) | 10 | | 22/09/2022 |
-| Rilegatura Libri (10/13) | | 4 * 13 | 22/09/2022 |
+| Rilegatura Libri (10/13) | | 4 euro * 13 | 22/09/2022 |
 ||
 | *Totale Residuo* | 101.85 | | 21/09/2022 |
 ||
