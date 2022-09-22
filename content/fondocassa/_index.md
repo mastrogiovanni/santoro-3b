@@ -12,6 +12,22 @@ draft: false
 ||
 | *Totale Residuo* | 63.85 | | 16/09/2022 |
 ||
+| Fondocassa Gabriele (1/13) | 10 | | 21/09/2022 |
+| Fondocassa Maila (2/13) | 10 | | 21/09/2022 |
+| Fondocassa Marco (3/13) | 10 | | 21/09/2022 |
+| Fondocassa Asia (4/13) | 10 | | 21/09/2022 |
+| Fondocassa Stella (5/13) | 10 | | 21/09/2022 |
+| Fondocassa Miriam (6/13) | 10 | | 21/09/2022 |
+||
+| *Totale Residuo* | 123.85 | | 21/09/2022 |
+||
+| Fondocassa Alvin (7/13) | 10 | | 22/09/2022 |
+| Fondocassa Tommaso (8/13) | 10 | | 22/09/2022 |
+| Fondocassa Matteo (9/13) | 10 | | 22/09/2022 |
+| Rilegatura Libri (10/13) | | 4 * 13 | 22/09/2022 |
+||
+| *Totale Residuo* | 101.85 | | 21/09/2022 |
+||
 {{< /table >}}
 
 Fondocassa I anno:
