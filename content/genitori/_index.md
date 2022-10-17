@@ -7,6 +7,7 @@ draft: false
 {{< table "table table-dark table-striped table-bordered" >}}
 | | |
 |---------|--------|--------|
+| Giuliana | mamma | Matteo |
 | Laura | mamma | Stella |
 | Sara | mamma | Asia |
 | Giulia | mamma | Lorenzo |

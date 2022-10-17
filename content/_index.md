@@ -3,9 +3,11 @@ title: "Utime Novità"
 weight: 0
 ---
 
+<!--
 {{< hint info >}}
 <a href="comunicazioni/visite-gratuite" target="_blank">**Visite gratuite per i minori che hanno avuto il COVID 19**</a>
 {{< /hint >}}
+-->
 
 <!--
 {{< hint info >}}
@@ -42,12 +44,14 @@ lasciare i figli a scuola e, nel caso di apertura, informarsi sull’orario di c
 {{< /hint >}}
 -->
 
+<!--
 {{< hint info >}}
 **Calendario del mese**
 
 ## Fabbraio 2022
 - 22 o 23: assemblea di classe (schede e colloqui) 17:00 - 19:00 
 {{< /hint >}}
+-->
 
 {{< hint info >}}
 <a href="libri/" target="_blank">**Tutti i libri in PDF**</a>
@@ -93,9 +97,11 @@ Le votazioni si terranno in palestra giovedì 28 ottobre dalle 15:30 -: 17:30 (b
 <a href="maestre/">**Chi sono le maestre**</a>
 {{< /hint >}}
 
+<!--
 {{< hint info >}}
 <a href="calendario/">**Calendario (tutto)**</a>
 {{< /hint >}}
+-->
 
 <!--
 {{< hint info >}}
