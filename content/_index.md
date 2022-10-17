@@ -44,14 +44,15 @@ lasciare i figli a scuola e, nel caso di apertura, informarsi sull’orario di c
 {{< /hint >}}
 -->
 
-<!--
 {{< hint info >}}
 **Calendario del mese**
 
-## Fabbraio 2022
-- 22 o 23: assemblea di classe (schede e colloqui) 17:00 - 19:00 
+## Ottobre 2022
+
+- 18 o/e 19/10/2022 ore 17:00 - 19:00 elezione rappresentanti dei genitori
+- 31 ottobre: festa
+
 {{< /hint >}}
--->
 
 {{< hint info >}}
 <a href="libri/" target="_blank">**Tutti i libri in PDF**</a>
