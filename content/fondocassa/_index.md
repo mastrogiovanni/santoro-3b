@@ -4,6 +4,12 @@ weight: -50
 draft: false
 ---
 
+{{< hint warning >}}
+<a href="/fondocassa/comune">**Fondocassa IIA-IIB**</a>
+
+Per le sole spese **comuni** alle due classi di materiale che le maestre già trannano in condivisione (carta igienica, scottex...)
+{{< /hint >}}
+
 {{< table "table table-dark table-striped table-bordered" >}}
 | Oggetto | Entrate (euro) | Uscite (euro) | Data |
 |---------|--------|--------|--------|
@@ -38,5 +44,8 @@ draft: false
 ||
 | *Totale Residuo* | 141.85 | | 23/09/2022 |
 ||
+| <a href="/fondocassa/comune">Versamento fondocassa IIA-IIB</a> | | 10 | 07/11/2022 |
+||
+| *Totale Residuo* | 131.85 | | 23/09/2022 |
+||
 {{< /table >}}
-
