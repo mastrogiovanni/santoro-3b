@@ -43,7 +43,7 @@ Ecco un elenco di attività portate avanti dalle maestre:
 {{< hint warning >}}
 **Spettacolo di Natale**
 
-* Il 12 dicembre ci sarà luscita al teatro Manzoni per uno spettacolo di Natale.
+* Il 12 dicembre ci sarà l'uscita al teatro Manzoni per uno spettacolo di Natale.
 * Occorre una adesione massiccia di entrambe le classi.
 * La spesa è di 35 euro a bambino da raccogliere al più presto.
 * E'una bellissima esperienza per i bimbi, le maestre sanno che la spesa è ingente e cercheranno in tutti i modi di abbattere futuri costi (e di fare attività che siano anche a costo 0).
