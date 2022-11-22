@@ -47,10 +47,11 @@ lasciare i figli a scuola e, nel caso di apertura, informarsi sull’orario di c
 {{< hint info >}}
 **Calendario del mese**
 
-## Ottobre 2022
+## Movembre 2022
 
-- 18 o/e 19/10/2022 ore 17:00 - 19:00 elezione rappresentanti dei genitori
-- 31 ottobre: festa
+- Festa: 1° novembre
+- Colloqui individuali con le famiglie: 29 o/e 30/11/2022
+- Riunione d’Interclasse con i rappresentanti dei genitori: 22/11/2022 ore 18:20 - 19:20
 
 {{< /hint >}}
 
