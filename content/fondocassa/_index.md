@@ -10,16 +10,41 @@ draft: false
 Per le sole spese **comuni** alle due classi di materiale che le maestre già trannano in condivisione (carta igienica, scottex...)
 {{< /hint >}}
 
-## Fondocassa Attività
+## Crediti
 
 {{< table "table table-dark table-striped table-bordered" >}}
-| Attività | Deposito | Raccolto (euro) |
-|---------|--------|--------|
-| Progetto Api | 7 euro * 14/14 alunni | 98 |
-| Libro Invalsi | 7 euro * 12/14 alunni (mancano Asia, Gabriele) | 84 |
-| Uscita Teatro Natale | 35 euro * 11/13 (mancano Asia, Gabriele) | 385 | 
-| *Totale Residuo* | | 567 |
+| Attività | Deposito | Uscita | Raccolto (euro) |
+|---------|--------|--------|--------|
+| Progetto Api | 7 euro * 14/14 alunni | 98 ||
+| Libro Invalsi | 7 euro * 14/14 alunni | 98 ||
+| Uscita Teatro Natale | 35 euro * 13/13 | 455 ||
+| *Totale Residuo* || 651 ||
+| (Regalo) Stampante + Estensione garanzia (1/2 con la IIA) ||| 62 |
+| *Totale Residuo* || 589 ||
+| Uscita Natale Teatro (1/2 con la IIA) || 176.5 ||
+| *Totale Residuo* || 412,5 ||
+||
+{{< /table >}}
 
+## Attività
+
+{{< table "table table-dark table-striped table-bordered" >}}
+| Attività | Deposito | Uscita | Raccolto (euro) |
+|---------|--------|--------|--------|
+| Progetto Api | 7 euro * 14/14 alunni | 98 ||
+| Libro Invalsi | 7 euro * 14/14 alunni | 98 ||
+| Uscita Teatro Natale | 35 euro * 13/13 | 455 ||
+| *Totale Residuo* || 651 ||
+| (Regalo) Stampante + Estensione garanzia (1/2 con la IIA) ||| 62 |
+| *Totale Residuo* || 589 ||
+| Uscita Natale Teatro (1/2 con la IIA): Biglietti || 176.5 ||
+| *Totale Residuo* || 412,5 ||
+| Pagamento API (12/14 quote): Matteo e Gabriele non inclusi ||| 84 |
+| *Totale Residuo* || 328,5 ||
+||
+{{< /table >}}
+
+## Fondocassa
 
 {{< table "table table-dark table-striped table-bordered" >}}
 | Oggetto | Entrate (euro) | Uscite (euro) | Data |
@@ -58,5 +83,9 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 | <a href="/fondocassa/comune">Versamento fondocassa IIA-IIB</a> | | 10 | 07/11/2022 |
 ||
 | *Totale Residuo* | 131.85 | | 23/09/2022 |
+||
+| Commissione bancomat pagamento API (12/14) | | 0.95 | 16/09/2022 |
+||
+| *Totale Residuo* | 130.9 | | 16/12/2022 |
 ||
 {{< /table >}}
