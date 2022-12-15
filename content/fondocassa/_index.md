@@ -13,16 +13,10 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 ## Crediti
 
 {{< table "table table-dark table-striped table-bordered" >}}
-| Attività | Deposito | Uscita | Raccolto (euro) |
-|---------|--------|--------|--------|
-| Progetto Api | 7 euro * 14/14 alunni | 98 ||
-| Libro Invalsi | 7 euro * 14/14 alunni | 98 ||
-| Uscita Teatro Natale | 35 euro * 13/13 | 455 ||
-| *Totale Residuo* || 651 ||
-| (Regalo) Stampante + Estensione garanzia (1/2 con la IIA) ||| 62 |
-| *Totale Residuo* || 589 ||
-| Uscita Natale Teatro (1/2 con la IIA) || 176.5 ||
-| *Totale Residuo* || 412,5 ||
+| Persona | Motivo | Credito (euro) |
+|---------|--------|--------|
+| Gabriele Cavallo | Progetto Api pagato in proprio | 7 |
+| Matteo Massarelli | Progetto Api pagato in proprio | 7 |
 ||
 {{< /table >}}
 
