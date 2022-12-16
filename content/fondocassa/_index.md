@@ -10,6 +10,7 @@ draft: false
 Per le sole spese **comuni** alle due classi di materiale che le maestre già trannano in condivisione (carta igienica, scottex...)
 {{< /hint >}}
 
+<!--
 ## Crediti
 
 {{< table "table table-dark table-striped table-bordered" >}}
@@ -19,22 +20,23 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 | Matteo Massarelli | Progetto Api pagato in proprio | 7 |
 ||
 {{< /table >}}
+-->
 
 ## Attività
 
 {{< table "table table-dark table-striped table-bordered" >}}
-| Attività | Deposito | Uscita | Raccolto (euro) |
+| Attività | Versato (euro) | Pagato (euro) | Residuo (euro) |
 |---------|--------|--------|--------|
-| Progetto Api | 7 euro * 14/14 alunni | 98 ||
-| Libro Invalsi | 7 euro * 14/14 alunni | 98 ||
-| Uscita Teatro Natale | 35 euro * 13/13 | 455 ||
-| *Totale Residuo* || 651 ||
-| (Regalo) Stampante + Estensione garanzia (1/2 con la IIA) ||| 62 |
-| *Totale Residuo* || 589 ||
-| Uscita Natale Teatro (1/2 con la IIA): Biglietti || 176.5 ||
-| *Totale Residuo* || 412,5 ||
-| Pagamento API (12/14 quote): Matteo e Gabriele non inclusi ||| 84 |
-| *Totale Residuo* || 328,5 ||
+| Progetto Api (7 euro * 14/14 alunni) | 98 || 98 |
+| Libro Invalsi (7 euro * 14/14 alunni) | 98 || 196 |
+| Uscita Teatro Natale (35 euro * 13/13) | 455 || 651 |
+| (Regalo) Stampante + Estensione garanzia (1/2 con la IIA) || 62 | 589 |
+| Uscita Natale Teatro (1/2 con la IIA): Biglietti || 176.5 || 412,5 |
+| Pagamento API (12/14 quote): Matteo e Gabriele non inclusi ||| 84 | 328,5 |
+| Restituzione Quota Api (7 euro) a Matteo e Gabriele || 17 | 314,5 |
+| Uscita Teatro Manzoni del 12.12.22 (14,79 euro * 13/13 quote) ||| 192.27 | 122,23 |
+||
+| *Totale Residuo* | 122,23 ||
 ||
 {{< /table >}}
 
@@ -78,8 +80,9 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 ||
 | *Totale Residuo* | 131.85 | | 23/09/2022 |
 ||
-| Commissione bancomat pagamento API (12/14) | | 0.95 | 16/09/2022 |
+| Commissione bancomat pagamento API (12/14) | | 0.95 | 16/12/2022 |
+| Commissione bancomat pagamento Teatro Manzoni del 12.12.22 (13/13) | | 0.95 | 16/12/2022 |
 ||
-| *Totale Residuo* | 130.9 | | 16/12/2022 |
+| *Totale Residuo* | 129,95 | | 16/12/2022 |
 ||
 {{< /table >}}
