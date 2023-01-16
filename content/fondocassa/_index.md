@@ -85,4 +85,8 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 ||
 | *Totale Residuo* | 129,95 | | 16/12/2022 |
 ||
+| 2 Scottex + 3 Carta igienica | | 14.30 | 12/01/2023 |
+||
+| *Totale Residuo* | 115,65 | | 12/01/2023 |
+||
 {{< /table >}}
