@@ -10,18 +10,6 @@ draft: false
 Per le sole spese **comuni** alle due classi di materiale che le maestre già trannano in condivisione (carta igienica, scottex...)
 {{< /hint >}}
 
-<!--
-## Crediti
-
-{{< table "table table-dark table-striped table-bordered" >}}
-| Persona | Motivo | Credito (euro) |
-|---------|--------|--------|
-| Gabriele Cavallo | Progetto Api pagato in proprio | 7 |
-| Matteo Massarelli | Progetto Api pagato in proprio | 7 |
-||
-{{< /table >}}
--->
-
 ## Attività
 
 {{< table "table table-dark table-striped table-bordered" >}}
