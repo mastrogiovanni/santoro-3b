@@ -31,12 +31,14 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 | Libro Invalsi (7 euro * 14/14 alunni) | 98 || 196 |
 | Uscita Teatro Natale (35 euro * 13/13) | 455 || 651 |
 | (Regalo) Stampante + Estensione garanzia (1/2 con la IIA) || 62 | 589 |
-| Uscita Natale Teatro (1/2 con la IIA): Biglietti || 176.5 || 412,5 |
-| Pagamento API (12/14 quote): Matteo e Gabriele non inclusi ||| 84 | 328,5 |
-| Restituzione Quota Api (7 euro) a Matteo e Gabriele || 17 | 314,5 |
-| Uscita Teatro Manzoni del 12.12.22 (14,79 euro * 13/13 quote) ||| 192.27 | 122,23 |
+| Uscita Natale Teatro (1/2 con la IIA): Biglietti || 176.5 | 412,5 |
+| Pagamento API (12/14 quote): Matteo e Gabriele non inclusi || 84 | 328,5 |
+| Restituzione Quota Api (7 euro) a Matteo e Gabriele || 14 | 314,5 |
+| Uscita Teatro Manzoni del 12.12.22 (14,79 euro * 13/13 quote) || 192.27 | 122,23 |
+| Pagamento libri Invalsi alle maestre (7 x 14) || 98 | 24.23 |
+
 ||
-| *Totale Residuo* | 122,23 ||
+| *Totale Residuo* | 24.23 ||
 ||
 {{< /table >}}
 
@@ -88,5 +90,10 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 | 2 Scottex + 3 Carta igienica | | 14.30 | 12/01/2023 |
 ||
 | *Totale Residuo* | 115,65 | | 12/01/2023 |
+||
+| Materiale di carnevale (3 euro x 14 bambini) | | 42 | 13/02/2023 |
+||
+| *Totale Residuo* | 73,65 | | 13/02/2023 |
+
 ||
 {{< /table >}}
