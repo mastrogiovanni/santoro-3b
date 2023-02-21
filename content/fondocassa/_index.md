@@ -82,6 +82,10 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 | Materiale di carnevale (3 euro x 14 bambini) | | 42 | 13/02/2023 |
 ||
 | *Totale Residuo* | 73,65 | | 13/02/2023 |
-
+||
+| Resto per mascherine di Natale | 3,80 |  | 20/02/2023 |
+| Acquisto Libri portati da Babbo Natale | | 20 | 20/02/2023 |
+||
+| *Totale Residuo* | 57,45 | | 20/02/2023 |
 ||
 {{< /table >}}
