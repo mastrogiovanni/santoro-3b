@@ -88,4 +88,8 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 ||
 | *Totale Residuo* | 57,45 | | 20/02/2023 |
 ||
+| 3 Scottex | | 14.70 | 01/03/2023 |
+||
+| *Totale Residuo* | 42,75 | | 01/03/2023 |
+||
 {{< /table >}}
