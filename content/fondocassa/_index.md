@@ -92,4 +92,16 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 ||
 | *Totale Residuo* | 42,75 | | 01/03/2023 |
 ||
+|| Fondocassa Miriam (1/14) | 10 | | 17/03/2022 |
+|| Fondocassa Giulia (2/14) | 10 | | 17/03/2022 |
+|| Fondocassa Tommaso (3/14) | 10 | | 17/03/2022 |
+|| Fondocassa Stella (4/14) | 10 | | 17/03/2022 |
+||
+| *Totale Residuo* | 82,75 | | 17/03/2022 |
+||
+|| Regalo di Pasqua || 32.50 | 17/03/2022
+|| Materiale Festa di primavera || 16+22 / 2 = 19 | 17/03/2022
+||
+| *Totale Residuo* | 31.25 | | 17/03/2022 |
+||
 {{< /table >}}
