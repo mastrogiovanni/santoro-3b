@@ -106,4 +106,8 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 ||
 | *Totale Residuo* | 51.25 | | 17/03/2022 |
 ||
+|| Fondocassa Masha (7/14) | 10 | | 20/03/2022 |
+||
+| *Totale Residuo* | 61.25 | | 17/03/2022 |
+||
 {{< /table >}}
