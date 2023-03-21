@@ -47,11 +47,9 @@ lasciare i figli a scuola e, nel caso di apertura, informarsi sull’orario di c
 {{< hint info >}}
 **Calendario del mese**
 
-## Movembre 2022
+## Marzo
 
-- Festa: 1° novembre
-- Colloqui individuali con le famiglie: 29 o/e 30/11/2022
-- Riunione d’Interclasse con i rappresentanti dei genitori: 22/11/2022 ore 18:20 - 19:20
+- Riunione d’Interclasse con i rappresentanti dei genitori: 21/03/2023 ore 16:45 – 17:45
 
 {{< /hint >}}
 

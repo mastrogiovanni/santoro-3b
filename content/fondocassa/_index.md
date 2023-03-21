@@ -96,7 +96,7 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 || Fondocassa Giulia (2/14) | 10 | | 17/03/2022 |
 || Fondocassa Tommaso (3/14) | 10 | | 17/03/2022 |
 || Fondocassa Stella (4/14) | 10 | | 17/03/2022 |
-|| Fondocassa Matteo (5/14) | 10 | | 17/03/2022 |
+|| Fondocassa Matteo M. (5/14) | 10 | | 17/03/2022 |
 || Fondocassa Luca (6/14) | 10 | | 17/03/2022 |
 ||
 | *Totale Residuo* | 102,75 | | 17/03/2022 |
@@ -106,8 +106,14 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 ||
 | *Totale Residuo* | 51.25 | | 17/03/2022 |
 ||
-|| Fondocassa Masha (7/14) | 10 | | 20/03/2022 |
+|| Fondocassa Maila (7/14) | 10 | | 20/03/2022 |
 ||
 | *Totale Residuo* | 61.25 | | 17/03/2022 |
+||
+|| Fondocassa Alvin (8/14) | 10 | | 21/03/2022 |
+|| Fondocassa Lorenzo (9/14) | 10 | | 21/03/2022 |
+|| Fondocassa Marco (10/14) | 10 | | 21/03/2022 |
+||
+| *Totale Residuo* | 91.25 | | 17/03/2022 |
 ||
 {{< /table >}}
