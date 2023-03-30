@@ -116,4 +116,9 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 ||
 | *Totale Residuo* | 91.25 | | 17/03/2022 |
 ||
+|| Fondocassa Gabriele (11/14) | 10 | | 27/03/2022 |
+|| Fondocassa Gabriel (12/14) | 10 | | 27/03/2022 |
+||
+| *Totale Residuo* | 111.25 | | 17/03/2022 |
+||
 {{< /table >}}
