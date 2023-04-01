@@ -121,4 +121,8 @@ Per le sole spese **comuni** alle due classi di materiale che le maestre già tr
 ||
 | *Totale Residuo* | 111.25 | | 17/03/2022 |
 ||
+|| Acquisto cartucce stampante con 2B | | 23 | 01/04/2022 |
+||
+| *Totale Residuo* | 88.25 | | 01/04/2022 |
+||
 {{< /table >}}
