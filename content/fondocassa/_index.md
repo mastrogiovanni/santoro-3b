@@ -16,4 +16,8 @@ draft: false
 ||
 | *Totale Residuo* | 77.95 | | 19/09/2023 |
 ||
+| 1 Scottex | | 4.90 | 28/09/2023 |
+||
+| *Totale Residuo* | 73.05 | | 28/09/2023  |
+||
 {{< /table >}}
