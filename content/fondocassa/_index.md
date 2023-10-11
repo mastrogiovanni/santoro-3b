@@ -20,4 +20,8 @@ draft: false
 ||
 | *Totale Residuo* | 73.05 | | 28/09/2023  |
 ||
+| 1 scottex + 8 Carta Igienica Scottex | | 10.70 | 11/10/2023 |
+||
+| *Totale Residuo* | 62.35 | | 11/10/2023  |
+||
 {{< /table >}}
